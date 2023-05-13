@@ -18,6 +18,14 @@ GitHub repository: https://github.com/LauSmi/SVG-logo-maker
 
 Link to video walk-through: https://drive.google.com/file/d/1k8Fc8Y6E3-gFbUhte84RdLtfZ7_IYLHi/view
 
+Screenshots:
+
+![Alt text](logo.svg)
+
+ ![Alt text](examples/images/circle.png)
+![Alt text](examples/images/square.png)
+ ![Alt text](examples/triangle.svg)
+
 ## Installation
 
 Install jest and inquirer (version 8.2.4) packages for node.js before running this application.
