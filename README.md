@@ -9,24 +9,23 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Testing](#testing)
-- [Questions](#questions)
 
 ## Description
 
-This generator was made to assist in the creation of logos for business and personal use.
+This generator is a command line application that generates a SVG logo using user inputs. It also includes a test package using Jest to make sure that proper conditions are in place to create a SVG file.
 
 GitHub repository: https://github.com/LauSmi/SVG-logo-maker
 
-Link to video walk-through: 
+Link to video walk-through: https://drive.google.com/file/d/1k8Fc8Y6E3-gFbUhte84RdLtfZ7_IYLHi/view
 
 ## Installation
 
-Install the jest and inquirer (version 8.2.4) packages for node.js before running this application.
+Install jest and inquirer (version 8.2.4) packages for node.js before running this application.
 
 ## Usage
 
-JavaScript, Markdown, Node, JSON.
+To use the generator, open the terminal and run "npm test" to check input conditions. Then, enter the command "node index.js" and follow the prompts. If done correctly, the terminal will display "Generated logo.svg", and a file named "logo.svg" will appear in the explorer with the newly generated logo.
+
 
 ## Credits
 
@@ -43,6 +42,3 @@ https://github.com/
 Licensed under the MIT license.
 
 
-## Questions
-
-Please send your questions to: 123ABC@gmail.com or visit [github/lausmi](https://github.com/lausmi).
